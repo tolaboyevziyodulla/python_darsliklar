@@ -1,0 +1,16 @@
+{
+    "name": "ALijon Valiyev",
+    "family": false,
+    "age": 12,
+    "allergy": null,
+    "medisins": [
+        {
+            "name": "Analgin Dimidrol",
+            "result": 0.4
+        },
+        {
+            "name": "Paratsetamol",
+            "result": 4.0
+        }
+    ]
+}
